@@ -118,7 +118,7 @@ function draw() {
   textSize(20);
   textFont("Georgia")
   fill(136, 187, 228);
-  text("Drag the Hexagonal Stone and Release it, to launch it towards the blocks", 100, 30);
+  text("Drag the Dark Blue Rectangular Stone and Release it, to launch it towards the blocks", 100, 30);
 
   strokeWeight(1);
   fill(174, 198, 207);
